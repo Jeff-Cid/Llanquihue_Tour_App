@@ -1,0 +1,10 @@
+Ruta del Kuchen;gastronómico;4;35000
+Paseo por el Lago Llanquihue;lacustre;3;28000
+Visita Museo Antonio Felmer;cultural;2;12000
+Cena en Puerto Varas;gastronómico;3;42000
+Tour Personalizado Volcán Osorno;personalizado;8;85000
+Navegación al atardecer;lacustre;2;30000
+Degustación de cervezas artesanales;gastronómico;3;25000
+Ruta de las iglesias patrimoniales;cultural;5;22000
+Kayak en el Lago Llanquihue;lacustre;2;20000
+Excursión a Saltos del Petrohué;personalizado;6;48000
